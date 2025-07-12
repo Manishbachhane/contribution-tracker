@@ -1,3 +1,4 @@
 2025-07-11 - Practiced React props and state
 2025-07-11 - learn tailwind
 2025-07-12 - Learned Promises in JavaScript
+2025-07-12 - Learn array data structure in js
