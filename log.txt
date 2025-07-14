@@ -4,3 +4,4 @@
 2025-07-12 - Learn array data structure in js
 2025-07-13 - 
 2025-07-14 - learn motion animation
+2025-07-14 - working on new project
