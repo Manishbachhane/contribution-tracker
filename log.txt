@@ -6,3 +6,4 @@
 2025-07-14 - learn motion animation
 2025-07-14 - working on new project
 2025-07-16 - 
+2025-07-17 - Singly linked list implementation
