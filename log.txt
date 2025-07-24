@@ -16,3 +16,4 @@
 2025-07-22 - workind on react project
 2025-07-23 - Queue implimentation using array
 2025-07-23 - working on nextJs project
+2025-07-25 - Queue implimentation using LinkedList
