@@ -18,3 +18,4 @@
 2025-07-23 - working on nextJs project
 2025-07-25 - Queue implimentation using LinkedList
 2025-07-25 - orking on[D[D[D[D[D[D[D[D[Dw[C[C[D[D[D[[Dwo[C[C[C[C[C[C[C[C pixxel project
+2025-07-27 - Queue implimentation using doubly linked list
