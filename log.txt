@@ -20,3 +20,4 @@
 2025-07-25 - orking on[D[D[D[D[D[D[D[D[Dw[C[C[D[D[D[[Dwo[C[C[C[C[C[C[C[C pixxel project
 2025-07-27 - Queue implimentation using doubly linked list
 2025-07-27 - Deque implimentation using Doubly Linked List
+2025-07-28 - Priority queue implimentation and Netflix+gpt project [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D working on netflx+gpt project
