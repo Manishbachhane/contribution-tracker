@@ -21,3 +21,4 @@
 2025-07-27 - Queue implimentation using doubly linked list
 2025-07-27 - Deque implimentation using Doubly Linked List
 2025-07-28 - Priority queue implimentation and Netflix+gpt project [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D working on netflx+gpt project
+2025-07-30 - React+Dsa()[DbinaryTree)implimentation
