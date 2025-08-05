@@ -24,3 +24,4 @@
 2025-07-30 - React+Dsa()[DbinaryTree)implimentation
 2025-08-03 - Working on Netflix+gpt project
 2025-08-04 - learn firebase[D[D[D[D[D[D[D[D[D deploying NetflixGPT on FireBase
+2025-08-05 - intregate firebase in NetflixGPT
