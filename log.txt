@@ -25,3 +25,4 @@
 2025-08-03 - Working on Netflix+gpt project
 2025-08-04 - learn firebase[D[D[D[D[D[D[D[D[D deploying NetflixGPT on FireBase
 2025-08-05 - intregate firebase in NetflixGPT
+2025-08-06 - adding authentication on Netflix+GPT[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C  [D[D[C[C[Do[C
