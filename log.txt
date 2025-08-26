@@ -34,3 +34,4 @@
 2025-08-20 - Learning NodeJS
 2025-08-21 - Working on NetflixGPT  and learning Node
 2025-08-22 - working on NetflixGPt project
+2025-08-26 - Work on Portfolio and NetflixGPT
